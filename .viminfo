@@ -30,28 +30,34 @@ $
 # Registers:
 
 # File marks:
-'0  2  8  ~/index.html
-|4,48,2,8,1659341997,"~/index.html"
-'1  2  0  ~/txt
-|4,49,2,0,1659341744,"~/txt"
-'2  8  0  ~/test
-|4,50,8,0,1659341744,"~/test"
-'3  4  0  ~/index.txt
-|4,51,4,0,1658434064,"~/index.txt"
-'4  3  0  ~/index.txt
-|4,52,3,0,1658431816,"~/index.txt"
-'5  3  0  ~/index.txt
-|4,53,3,0,1658431816,"~/index.txt"
-'6  2  0  ~/index.txt
-|4,54,2,0,1658404434,"~/index.txt"
-'7  2  0  ~/index.txt
-|4,55,2,0,1658404434,"~/index.txt"
-'8  2  0  ~/index.txt
-|4,56,2,0,1658404434,"~/index.txt"
+'0  1  0  ~/docker/txt
+|4,48,1,0,1659342398,"~/docker/txt"
+'1  1  0  ~/docker/index.html
+|4,49,1,0,1659342398,"~/docker/index.html"
+'2  1  0  ~/docker/txt
+|4,50,1,0,1659342398,"~/docker/txt"
+'3  2  8  ~/index.html
+|4,51,2,8,1659341997,"~/index.html"
+'4  2  0  ~/txt
+|4,52,2,0,1659341744,"~/txt"
+'5  8  0  ~/test
+|4,53,8,0,1659341744,"~/test"
+'6  4  0  ~/index.txt
+|4,54,4,0,1658434064,"~/index.txt"
+'7  3  0  ~/index.txt
+|4,55,3,0,1658431816,"~/index.txt"
+'8  3  0  ~/index.txt
+|4,56,3,0,1658431816,"~/index.txt"
 '9  2  0  ~/index.txt
 |4,57,2,0,1658404434,"~/index.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/docker/txt
+|4,39,1,0,1659342398,"~/docker/txt"
+-'  1  0  ~/docker/index.html
+|4,39,1,0,1659342398,"~/docker/index.html"
+-'  1  0  ~/docker/txt
+|4,39,1,0,1659342398,"~/docker/txt"
 -'  2  8  ~/index.html
 |4,39,2,8,1659341997,"~/index.html"
 -'  1  0  ~/index.html
@@ -64,6 +70,24 @@ $
 |4,39,2,0,1659341744,"~/txt"
 -'  8  0  ~/test
 |4,39,8,0,1659341744,"~/test"
+-'  2  0  ~/txt
+|4,39,2,0,1659341744,"~/txt"
+-'  8  0  ~/test
+|4,39,8,0,1659341744,"~/test"
+-'  2  0  ~/txt
+|4,39,2,0,1659341744,"~/txt"
+-'  8  0  ~/test
+|4,39,8,0,1659341744,"~/test"
+-'  2  0  ~/txt
+|4,39,2,0,1659341744,"~/txt"
+-'  8  0  ~/test
+|4,39,8,0,1659341744,"~/test"
+-'  1  0  ~/txt
+|4,39,1,0,1659341427,"~/txt"
+-'  1  0  ~/txt
+|4,39,1,0,1659341427,"~/txt"
+-'  1  0  ~/txt
+|4,39,1,0,1659341427,"~/txt"
 -'  1  0  ~/txt
 |4,39,1,0,1659341427,"~/txt"
 -'  1  0  ~/txt
@@ -72,6 +96,30 @@ $
 |4,39,1,0,1659340812,"~/test"
 -'  1  0  ~/test
 |4,39,1,0,1659340812,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1659340812,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1659340812,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1659340812,"~/test"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
+-'  4  0  ~/index.txt
+|4,39,4,0,1658434064,"~/index.txt"
 -'  4  0  ~/index.txt
 |4,39,4,0,1658434064,"~/index.txt"
 -'  4  0  ~/index.txt
@@ -97,6 +145,42 @@ $
 -'  3  0  ~/index.txt
 |4,39,3,0,1658434051,"~/index.txt"
 -'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658434051,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
+|4,39,3,0,1658431816,"~/index.txt"
+-'  3  0  ~/index.txt
 |4,39,3,0,1658431816,"~/index.txt"
 -'  3  0  ~/index.txt
 |4,39,3,0,1658431816,"~/index.txt"
@@ -133,127 +217,54 @@ $
 -'  2  0  ~/index.txt
 |4,39,2,0,1658431771,"~/index.txt"
 -'  2  0  ~/index.txt
-|4,39,2,0,1658404434,"~/index.txt"
+|4,39,2,0,1658431771,"~/index.txt"
 -'  2  0  ~/index.txt
-|4,39,2,0,1658404434,"~/index.txt"
+|4,39,2,0,1658431771,"~/index.txt"
 -'  2  0  ~/index.txt
-|4,39,2,0,1658404434,"~/index.txt"
+|4,39,2,0,1658431771,"~/index.txt"
 -'  2  0  ~/index.txt
-|4,39,2,0,1658404434,"~/index.txt"
+|4,39,2,0,1658431771,"~/index.txt"
 -'  2  0  ~/index.txt
-|4,39,2,0,1658404434,"~/index.txt"
+|4,39,2,0,1658431771,"~/index.txt"
 -'  2  0  ~/index.txt
-|4,39,2,0,1658404434,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  1  0  ~/index.txt
-|4,39,1,0,1658404418,"~/index.txt"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1658344397,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1658344375,"~/index.html"
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
+-'  2  0  ~/index.txt
+|4,39,2,0,1658431771,"~/index.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/docker/index.html
+	*	1659342398	0
+	"	1	0
+
+> ~/docker/txt
+	*	1659342398	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/index.html
 	*	1659341995	0

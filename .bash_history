@@ -250,3 +250,61 @@ cat txt
 vi txt
 ls
 cat txt
+mkdir docker
+ls
+cd project
+cd docker
+clear
+cd
+clerar
+clear
+ls
+cd docker
+vi txt
+vi index.html
+clear
+ls
+cd
+ls
+vi index.html
+git status
+git init
+git add .
+ls
+git commit -m "this is first task"
+clear
+git init
+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
+git login
+clear
+git remote add origin https://github.com/Vigneshh26/Docker.git
+git push origin master
+git status
+git push origin master
+ls
+mkdir docker
+cd docker
+cd
+git clone https://github.com/Vigneshh26/Docker.git
+ls
+cd Docker
+ls
+cd Docker
+cd
+cd Docker
+cd
+ls
+cd docker
+cd
+cd Docker
+ls
+git add 
+git add index.html
+git commit -m "Add index.html"
+git commit -m "index.html"
+git remote add origin https://github.com/Vigneshh26/Docker.git
+git add .
+git clone https://github.com/Vigneshh26/Docker.git
+ls
+cd Docker
+cd
